@@ -1,4 +1,4 @@
-#[PAT](https://www.patest.cn/contests)
+#[PAT(Programming Ability Test)](https://www.patest.cn/contests)
 
 PAT的测评方式为：”单点测试“，即代码只需要能够处理一组数据的输入即可，后台会多次运行代码来测试不同的数据，然后对每组数据都返回相应的结果。
 
@@ -6,7 +6,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 
 | # | Title | Solution | 
 |---| ----- | -------- |
-|1119|[Pre- and Post-order Traversals (30)](https://www.patest.cn/contests/pat-a-practise/1119)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1119.cpp) |
+|1119|[Pre- and Post-order Traversals (30)](https://www.patest.cn/contests/pat-a-practise/1119)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1119.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1119-2.cpp)|
 |1118|[Birds in Forest (25)](https://www.patest.cn/contests/pat-a-practise/1118)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1118.cpp) |
 |1117|[Eddington Number(25)](https://www.patest.cn/contests/pat-a-practise/1117)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1117.cpp) |
 |1116|[Come on! Let's C (20)](https://www.patest.cn/contests/pat-a-practise/1116)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1116.cpp) |
@@ -15,7 +15,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1113|[Integer Set Partition (25)](https://www.patest.cn/contests/pat-a-practise/1113)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1113.cpp) |
 |1112|[Stucked Keyboard (20)](https://www.patest.cn/contests/pat-a-practise/1112)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1112.cpp) |
 |1111|[Online Map (30)](https://www.patest.cn/contests/pat-a-practise/1111)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1111.cpp) |
-|1110|[Complete Binary Tree (25)](https://www.patest.cn/contests/pat-a-practise/1110)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1110.cpp) |
+|1110|[Complete Binary Tree (25)](https://www.patest.cn/contests/pat-a-practise/1110)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1110.cpp)  [C++](./PAT%20(Advanced%20Level)%20Practise/A1110-2.cpp) |
 |1109|[Group Photo (25)](https://www.patest.cn/contests/pat-a-practise/1109)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1109.cpp) |
 |1108|[Finding Average (20)](https://www.patest.cn/contests/pat-a-practise/1108)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1108.cpp) |
 |1107|[Social Clusters (30)](https://www.patest.cn/contests/pat-a-practise/1107)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1107.cpp) |
@@ -28,7 +28,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1100|[Mars Numbers (20)](https://www.patest.cn/contests/pat-a-practise/1101)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1100.cpp) |
 |1099|[Build A Binary Search Tree (30)](https://www.patest.cn/contests/pat-a-practise/1099)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1099.cpp) |
 |1098|[Insertion or Heap Sort (25)](https://www.patest.cn/contests/pat-a-practise/1098)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1098.cpp) |
-|1097|[Deduplication on a Linked List (25)](https://www.patest.cn/contests/pat-a-practise/1097)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1097.cpp) |
+|1097|[Deduplication on a Linked List (25)](https://www.patest.cn/contests/pat-a-practise/1097)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1097.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1097-2.cpp) |
 |1096|[Consecutive Factors (20)](https://www.patest.cn/contests/pat-a-practise/1096)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1096.cpp) |
 |1095|[Cars on Campus (30)](https://www.patest.cn/contests/pat-a-practise/1095)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1095.cpp) |
 |1094|[The Largest Generation (25)](https://www.patest.cn/contests/pat-a-practise/1094)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1094.cpp) |
@@ -40,27 +40,27 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1088|[Rational Arithmetic (20)](https://www.patest.cn/contests/pat-a-practise/1088)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1088.cpp) |
 |1087|[All Roads Lead to Rome (30)](https://www.patest.cn/contests/pat-a-practise/1087)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1087.cpp) |
 |1086|[Tree Traversals Again (25)](https://www.patest.cn/contests/pat-a-practise/1086)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1086.cpp) |
-|1085|[Perfect Sequence (25)](https://www.patest.cn/contests/pat-a-practise/1085)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1085.cpp) |
+|1085|[Perfect Sequence (25)](https://www.patest.cn/contests/pat-a-practise/1085)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1085.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1085-2.cpp)  |
 |1084|[Broken Keyboard (20)](https://www.patest.cn/contests/pat-a-practise/1084)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1084.cpp) |
 |1083|[List Grades (25)](https://www.patest.cn/contests/pat-a-practise/1083)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1083.cpp) |
 |1082|[Read Number in Chinese (25)](https://www.patest.cn/contests/pat-a-practise/1082)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1082.cpp) |
 |1081|[Rational Sum (20)](https://www.patest.cn/contests/pat-a-practise/1081)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1081.cpp) |
 |1080|[Graduate Admission (30)](https://www.patest.cn/contests/pat-a-practise/1080)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1080.cpp) |
-|1079|[Total Sales of Supply Chain (25)](https://www.patest.cn/contests/pat-a-practise/1079)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1079.cpp) |
+|1079|[Total Sales of Supply Chain (25)](https://www.patest.cn/contests/pat-a-practise/1079)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1079.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1079-2.cpp)  |
 |1078|[Hashing (25)](https://www.patest.cn/contests/pat-a-practise/1078)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1078.cpp) |
 |1077|[Kuchiguse (20)](https://www.patest.cn/contests/pat-a-practise/1077)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1077.cpp) |
 |1076|[Forwards on Weibo (30)](https://www.patest.cn/contests/pat-a-practise/1076)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1076.cpp) |
-|1075|[PAT Judge (25)](https://www.patest.cn/contests/pat-a-practise/1075)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1075.cpp) |
+|1075|[PAT Judge (25)](https://www.patest.cn/contests/pat-a-practise/1075)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1075.cpp)  [C++](./PAT%20(Advanced%20Level)%20Practise/A1075-2.cpp)  |
 |1074|[Reversing Linked List (25)](https://www.patest.cn/contests/pat-a-practise/1074)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1074.cpp) |
 |1073|[Scientific Notation (20)](https://www.patest.cn/contests/pat-a-practise/1073)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1073.cpp) |
 |1072|[Gas Station (30)](https://www.patest.cn/contests/pat-a-practise/1072)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1072.cpp) |
-|1071|[Speech Patterns (25)](https://www.patest.cn/contests/pat-a-practise/1071)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1071.cpp) |
+|1071|[Speech Patterns (25)](https://www.patest.cn/contests/pat-a-practise/1071)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1071.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1071-2.cpp) |
 |1070|[Mooncake (25)](https://www.patest.cn/contests/pat-a-practise/1070)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1070.cpp) |
 |1069|[The Black Hole of Numbers (20)](https://www.patest.cn/contests/pat-a-practise/1069)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1069.cpp) |
 |1068|[Find More Coins (30)](https://www.patest.cn/contests/pat-a-practise/1068)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1068.cpp) |
-|1067|[Sort with Swap(0,*) (25)](https://www.patest.cn/contests/pat-a-practise/1067)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1067.cpp) |
+|1067|[Sort with Swap(0,*) (25)](https://www.patest.cn/contests/pat-a-practise/1067)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1067.cpp)  [C++](./PAT%20(Advanced%20Level)%20Practise/A1067-2.cpp)  |
 |1066|[Root of AVL Tree (25)](https://www.patest.cn/contests/pat-a-practise/1066)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1066.cpp) |
-|1065|[A+B and C (64bit) (20)](https://www.patest.cn/contests/pat-a-practise/1065)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1065.cpp) |
+|1065|[A+B and C (64bit) (20)](https://www.patest.cn/contests/pat-a-practise/1065)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1065.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1065-2.cpp) |
 |1064|[Complete Binary Search Tree (30)](https://www.patest.cn/contests/pat-a-practise/1064)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1064.cpp) |
 |1063|[Set Similarity (25)](https://www.patest.cn/contests/pat-a-practise/1063)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1063.cpp) |
 |1062|[Talent and Virtue (25)](https://www.patest.cn/contests/pat-a-practise/1062)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1062.cpp) |
@@ -77,7 +77,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1051|[Pop Sequence (25)](https://www.patest.cn/contests/pat-a-practise/1051)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1051.cpp) |
 |1050|[String Subtraction (20)](https://www.patest.cn/contests/pat-a-practise/1050)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1050.cpp) |
 |1049|[Counting Ones (30)](https://www.patest.cn/contests/pat-a-practise/1049)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1049.cpp) |
-|1048|[Find Coins (25)](https://www.patest.cn/contests/pat-a-practise/1048)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1048.cpp) |
+|1048|[Find Coins (25)](https://www.patest.cn/contests/pat-a-practise/1048)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1048.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1048-2.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1048-3.cpp) |
 |1047|[Student List for Course (25)](https://www.patest.cn/contests/pat-a-practise/1047)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1047.cpp) |
 |1046|[Shortest Distance (20)](https://www.patest.cn/contests/pat-a-practise/1046)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1046.cpp) |
 |1045|[Favorite Color Stripe (30)](https://www.patest.cn/contests/pat-a-practise/1045)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1045.cpp) |
@@ -85,7 +85,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1043|[Is It a Binary Search Tree (25)](https://www.patest.cn/contests/pat-a-practise/1043)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1043.cpp) |
 |1042|[Shuffling Machine (20)](https://www.patest.cn/contests/pat-a-practise/1042)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1042.cpp) |
 |1041|[Be Unique (20)](https://www.patest.cn/contests/pat-a-practise/1041)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1041.cpp) |
-|1040|[Longest Symmetric String (25)](https://www.patest.cn/contests/pat-a-practise/1040)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1040.cpp) |
+|1040|[Longest Symmetric String (25)](https://www.patest.cn/contests/pat-a-practise/1040)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1040.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1040-2.cpp) |
 |1039|[Course List for Student (25)](https://www.patest.cn/contests/pat-a-practise/1039)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1039.cpp) |
 |1038|[Recover the Smallest Number (30)](https://www.patest.cn/contests/pat-a-practise/1038)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1038.cpp) |
 |1037|[Magic Coupon (25)](https://www.patest.cn/contests/pat-a-practise/1037)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1037.cpp) |
