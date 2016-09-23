@@ -1,3 +1,7 @@
-#忽略所有没有后缀名的文件
 *
+!/PAT\ (Advanced\ Level)\ Practise/
+!/PAT\ (Advanced\ Level)\ Practise/**/
+!/PAT\ (Basic\ Level)\ Practise/
+!/PAT\ (Basic\ Level)\ Practise/**/
 !*.*
+!Makefile
