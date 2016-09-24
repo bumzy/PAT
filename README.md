@@ -153,7 +153,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1040|[有几个PAT(25)](https://www.patest.cn/contests/pat-b-practise/1040)| [C++](./PAT%20(Basic%20Level)%20Practise/B1040.cpp)|
 |1039|[到底买不买(20)](https://www.patest.cn/contests/pat-b-practise/1039)| [C++](./PAT%20(Basic%20Level)%20Practise/B1039.cpp)|
 |1038|[统计同成绩学生(20)](https://www.patest.cn/contests/pat-b-practise/1038)| [C++](./PAT%20(Basic%20Level)%20Practise/B1038.cpp)|
-|1037|[在霍格沃茨找零钱(20)](https://www.patest.cn/contests/pat-b-practise/1037)| [C++](./PAT%20(Basic%20Level)%20Practise/B1037.cpp)|
+|1037|[在霍格沃茨找零钱(20)](https://www.patest.cn/contests/pat-b-practise/1037)| [C++](./PAT%20(Basic%20Level)%20Practise/B1037.cpp) [C++](./PAT%20(Basic%20Level)%20Practise/B1037-2.cpp)|
 |1036|[跟奥巴马一起编程(15)](https://www.patest.cn/contests/pat-b-practise/1036)| [C++](./PAT%20(Basic%20Level)%20Practise/B1036.cpp)|
 |1035|[插入与归并(25)](https://www.patest.cn/contests/pat-b-practise/1035)| [C++](./PAT%20(Basic%20Level)%20Practise/B1035.cpp)|
 |1034|[有理数四则运算(20)](https://www.patest.cn/contests/pat-b-practise/1034)| [C++](./PAT%20(Basic%20Level)%20Practise/B1034.cpp)|
