@@ -130,6 +130,63 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 
 | # | Title | Solution | 
 |---| ----- | -------- |
+|1060|[爱丁顿数(25)](https://www.patest.cn/contests/pat-b-practise/1060)| [C++](./PAT%20(Basic%20Level)%20Practise/B1060.cpp)|
+|1059|[C语言竞赛(20)](https://www.patest.cn/contests/pat-b-practise/1059)| [C++](./PAT%20(Basic%20Level)%20Practise/B1059.cpp)|
+|1058|[选择题(20)](https://www.patest.cn/contests/pat-b-practise/1058)| [C++](./PAT%20(Basic%20Level)%20Practise/B1058.cpp)|
+|1057|[数零壹(20)](https://www.patest.cn/contests/pat-b-practise/1057)| [C++](./PAT%20(Basic%20Level)%20Practise/B1057.cpp)|
+|1056|[组合数的和(15)](https://www.patest.cn/contests/pat-b-practise/1056)| [C++](./PAT%20(Basic%20Level)%20Practise/B1056.cpp)|
+|1055|[集体照 (25)](https://www.patest.cn/contests/pat-b-practise/1055)| [C++](./PAT%20(Basic%20Level)%20Practise/B1055.cpp)|
+|1054|[求平均值 (20)](https://www.patest.cn/contests/pat-b-practise/1054)| [C++](./PAT%20(Basic%20Level)%20Practise/B1054.cpp)|
+|1053|[住房空置率 (20)](https://www.patest.cn/contests/pat-b-practise/1053)| [C++](./PAT%20(Basic%20Level)%20Practise/B1053.cpp)|
+|1052|[卖个萌 (20)](https://www.patest.cn/contests/pat-b-practise/1052)| [C++](./PAT%20(Basic%20Level)%20Practise/B1052.cpp)|
+|1051|[复数乘法 (15)](https://www.patest.cn/contests/pat-b-practise/1051)| [C++](./PAT%20(Basic%20Level)%20Practise/B1051.cpp)|
+|1050|[螺旋矩阵(25)](https://www.patest.cn/contests/pat-b-practise/1050)| [C++](./PAT%20(Basic%20Level)%20Practise/B1050.cpp)|
+|1049|[数列的片段和(20)](https://www.patest.cn/contests/pat-b-practise/1049)| [C++](./PAT%20(Basic%20Level)%20Practise/B1049.cpp)|
+|1048|[数字加密(20)](https://www.patest.cn/contests/pat-b-practise/1048)| [C++](./PAT%20(Basic%20Level)%20Practise/B1048.cpp)|
+|1047|[编程团体赛(20)](https://www.patest.cn/contests/pat-b-practise/1047)| [C++](./PAT%20(Basic%20Level)%20Practise/B1047.cpp)|
+|1046|[划拳(15)](https://www.patest.cn/contests/pat-b-practise/1046)| [C++](./PAT%20(Basic%20Level)%20Practise/B1046.cpp)|
+|1045|[快速排序(25)](https://www.patest.cn/contests/pat-b-practise/1045)| [C++](./PAT%20(Basic%20Level)%20Practise/B1045.cpp)|
+|1044|[火星数字(20)](https://www.patest.cn/contests/pat-b-practise/1044)| [C++](./PAT%20(Basic%20Level)%20Practise/B1044.cpp)|
+|1043|[输出PATest(20)](https://www.patest.cn/contests/pat-b-practise/1043)| [C++](./PAT%20(Basic%20Level)%20Practise/B1043.cpp)|
+|1042|[字符统计(20)](https://www.patest.cn/contests/pat-b-practise/1042)| [C++](./PAT%20(Basic%20Level)%20Practise/B1042.cpp)|
+|1041|[考试座位号(15)](https://www.patest.cn/contests/pat-b-practise/1041)| [C++](./PAT%20(Basic%20Level)%20Practise/B1041.cpp)|
+|1040|[有几个PAT(25)](https://www.patest.cn/contests/pat-b-practise/1040)| [C++](./PAT%20(Basic%20Level)%20Practise/B1040.cpp)|
+|1039|[到底买不买(20)](https://www.patest.cn/contests/pat-b-practise/1039)| [C++](./PAT%20(Basic%20Level)%20Practise/B1039.cpp)|
+|1038|[统计同成绩学生(20)](https://www.patest.cn/contests/pat-b-practise/1038)| [C++](./PAT%20(Basic%20Level)%20Practise/B1038.cpp)|
+|1037|[在霍格沃茨找零钱(20)](https://www.patest.cn/contests/pat-b-practise/1037)| [C++](./PAT%20(Basic%20Level)%20Practise/B1037.cpp)|
+|1036|[跟奥巴马一起编程(15)](https://www.patest.cn/contests/pat-b-practise/1036)| [C++](./PAT%20(Basic%20Level)%20Practise/B1036.cpp)|
+|1035|[插入与归并(25)](https://www.patest.cn/contests/pat-b-practise/1035)| [C++](./PAT%20(Basic%20Level)%20Practise/B1035.cpp)|
+|1034|[有理数四则运算(20)](https://www.patest.cn/contests/pat-b-practise/1034)| [C++](./PAT%20(Basic%20Level)%20Practise/B1034.cpp)|
+|1033|[旧键盘打字(20)](https://www.patest.cn/contests/pat-b-practise/1033)| [C++](./PAT%20(Basic%20Level)%20Practise/B1033.cpp)|
+|1032|[挖掘机技术哪家强(20)](https://www.patest.cn/contests/pat-b-practise/1032)| [C++](./PAT%20(Basic%20Level)%20Practise/B1032.cpp)|
+|1031|[查验身份证(15)](https://www.patest.cn/contests/pat-b-practise/1031)| [C++](./PAT%20(Basic%20Level)%20Practise/B1031.cpp)|
+|1030|[完美数列(25)](https://www.patest.cn/contests/pat-b-practise/1030)| [C++](./PAT%20(Basic%20Level)%20Practise/B1030.cpp)|
+|1029|[旧键盘(20)](https://www.patest.cn/contests/pat-b-practise/1029)| [C++](./PAT%20(Basic%20Level)%20Practise/B1029.cpp)|
+|1028|[人口普查(20)](https://www.patest.cn/contests/pat-b-practise/1028)| [C++](./PAT%20(Basic%20Level)%20Practise/B1028.cpp)|
+|1027|[打印沙漏(20)](https://www.patest.cn/contests/pat-b-practise/1027)| [C++](./PAT%20(Basic%20Level)%20Practise/B1027.cpp)|
+|1026|[程序运行时间(15)](https://www.patest.cn/contests/pat-b-practise/1026)| [C++](./PAT%20(Basic%20Level)%20Practise/B1026.cpp)|
+|1025|[反转链表 (25)](https://www.patest.cn/contests/pat-b-practise/1025)| [C++](./PAT%20(Basic%20Level)%20Practise/B1025.cpp)|
+|1024|[科学计数法 (20)](https://www.patest.cn/contests/pat-b-practise/1024)| [C++](./PAT%20(Basic%20Level)%20Practise/B1024.cpp)|
+|1023|[组个最小数 (20)](https://www.patest.cn/contests/pat-b-practise/1023)| [C++](./PAT%20(Basic%20Level)%20Practise/B1023.cpp)|
+|1022|[D进制的A+B (20)](https://www.patest.cn/contests/pat-b-practise/1022)| [C++](./PAT%20(Basic%20Level)%20Practise/B1022.cpp)|
+|1021|[个位数统计 (15)](https://www.patest.cn/contests/pat-b-practise/1021)| [C++](./PAT%20(Basic%20Level)%20Practise/B1021.cpp)|
+|1020|[月饼 (25)](https://www.patest.cn/contests/pat-b-practise/1020)| [C++](./PAT%20(Basic%20Level)%20Practise/B1020.cpp)|
+|1019|[数字黑洞 (20)](https://www.patest.cn/contests/pat-b-practise/1019)| [C++](./PAT%20(Basic%20Level)%20Practise/B1019.cpp)|
+|1018|[锤子剪刀布 (20)](https://www.patest.cn/contests/pat-b-practise/1018)| [C++](./PAT%20(Basic%20Level)%20Practise/B1018.cpp)|
+|1017|[A除以B (20)](https://www.patest.cn/contests/pat-b-practise/1017)| [C++](./PAT%20(Basic%20Level)%20Practise/B1017.cpp)|
+|1016|[部分A+B (15)](https://www.patest.cn/contests/pat-b-practise/1016)| [C++](./PAT%20(Basic%20Level)%20Practise/B1016.cpp)|
+|1015|[德才论 (25)](https://www.patest.cn/contests/pat-b-practise/1015)| [C++](./PAT%20(Basic%20Level)%20Practise/B1015.cpp)|
+|1014|[福尔摩斯的约会 (20)](https://www.patest.cn/contests/pat-b-practise/1014)| [C++](./PAT%20(Basic%20Level)%20Practise/B1014.cpp)|
+|1013|[数素数 (20)](https://www.patest.cn/contests/pat-b-practise/1013)| [C++](./PAT%20(Basic%20Level)%20Practise/B1013.cpp)|
+|1012|[数字分类 (20)](https://www.patest.cn/contests/pat-b-practise/1012)| [C++](./PAT%20(Basic%20Level)%20Practise/B1012.cpp)|
+|1011|[A+B和C (15)](https://www.patest.cn/contests/pat-b-practise/1011)| [C++](./PAT%20(Basic%20Level)%20Practise/B1011.cpp)|
+|1010|[一元多项式求导 (25)](https://www.patest.cn/contests/pat-b-practise/1010)| [C++](./PAT%20(Basic%20Level)%20Practise/B1010.cpp)|
+|1009|[说反话 (20)](https://www.patest.cn/contests/pat-b-practise/1009)| [C++](./PAT%20(Basic%20Level)%20Practise/B1009.cpp)|
+|1008|[数组元素循环右移问题 (20)](https://www.patest.cn/contests/pat-b-practise/1008)| [C++](./PAT%20(Basic%20Level)%20Practise/B1008.cpp)|
+|1007|[素数对猜想 (20)](https://www.patest.cn/contests/pat-b-practise/1007)| [C++](./PAT%20(Basic%20Level)%20Practise/B1007.cpp)|
+|1006|[换个格式输出整数 (15)](https://www.patest.cn/contests/pat-b-practise/1006)| [C++](./PAT%20(Basic%20Level)%20Practise/B1006.cpp)|
+|1005|[继续(3n+1)猜想 (25)](https://www.patest.cn/contests/pat-b-practise/1005)| [C++](./PAT%20(Basic%20Level)%20Practise/B1005.cpp)|
+|1004|[成绩排名 (20)](https://www.patest.cn/contests/pat-b-practise/1004)| [C++](./PAT%20(Basic%20Level)%20Practise/B1004.cpp)|
 |1003|[我要通过！(20)](https://www.patest.cn/contests/pat-b-practise/1003)| [C++](./PAT%20(Basic%20Level)%20Practise/B1003.cpp)|
 |1002|[写出这个数 (20)](https://www.patest.cn/contests/pat-b-practise/1002)| [C++](./PAT%20(Basic%20Level)%20Practise/B1002.cpp)|
 |1001|[害死人不偿命的(3n+1)猜想 (15)](https://www.patest.cn/contests/pat-b-practise/1001)| [C++](./PAT%20(Basic%20Level)%20Practise/B1001.cpp)|
