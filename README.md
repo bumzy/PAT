@@ -1,6 +1,20 @@
 #[PAT(Programming Ability Test)](https://www.patest.cn/contests)
 
+###测评方式
+
 PAT的测评方式为：”单点测试“，即代码只需要能够处理一组数据的输入即可，后台会多次运行代码来测试不同的数据，然后对每组数据都返回相应的结果。
+
+---
+
+###编译
+
+* 在根目录下编译所有文件：`make `，在根目录下清除所有可执行文件：`make clean`。
+
+* 在目录`./PAT_Advanced_Level_Practise`或者`./PAT_Basic_Level_Practise`下，编译单个文件：`make A1001`或者`make B1001`。
+
+* 详情见Makefile。
+
+---
 
 ###PAT (Advanced Level) Practise
 
@@ -126,6 +140,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1002|[A+B for Polynomials (25)](https://www.patest.cn/contests/pat-a-practise/1002)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1002-1.cpp)  [C++](./PAT%20(Advanced%20Level)%20Practise/A1002-2.cpp)|
 |1001|[A+B Format (20)](https://www.patest.cn/contests/pat-a-practise/1001)| [C++](./PAT%20(Advanced%20Level)%20Practise/A1001.cpp) [C++](./PAT%20(Advanced%20Level)%20Practise/A1001-2.cpp)|
 
+---
 ###PAT (Basic Level) Practise （中文）
 
 | # | Title | Solution | 
