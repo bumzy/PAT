@@ -5,7 +5,7 @@ OBJS = $(patsubst %.cpp, %, $(SRCS))
 
 .PHONY:all clean
 all:$(OBJS)
-%:%.c
+%:%.cpp
 	$(CC) $(CFLAGS) -o $@ $<
 clean:
 	rm -f $(OBJS)

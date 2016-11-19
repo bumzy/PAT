@@ -1,6 +1,9 @@
 #include <cstdio>
 #include <cstdlib>
+using namespace std;
+
 const double E = 1e-15;
+
 int main(){
 	double a[1010] = {0.0}, b[1010] = {0.0}, c[2010] = {0.0};
 	int k, n;

@@ -94,7 +94,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1048|[Find Coins (25)](https://www.patest.cn/contests/pat-a-practise/1048)| [C++](./PAT_Advanced_Level_Practise/A1048.cpp) [C++](./PAT_Advanced_Level_Practise/A1048-2.cpp) [C++](./PAT_Advanced_Level_Practise/A1048-3.cpp) |
 |1047|[Student List for Course (25)](https://www.patest.cn/contests/pat-a-practise/1047)| [C++](./PAT_Advanced_Level_Practise/A1047.cpp) |
 |1046|[Shortest Distance (20)](https://www.patest.cn/contests/pat-a-practise/1046)| [C++](./PAT_Advanced_Level_Practise/A1046.cpp) |
-|1045|[Favorite Color Stripe (30)](https://www.patest.cn/contests/pat-a-practise/1045)| [C++](./PAT_Advanced_Level_Practise/A1045.cpp) |
+|1045|[Favorite Color Stripe (30)](https://www.patest.cn/contests/pat-a-practise/1045)| [C++](./PAT_Advanced_Level_Practise/A1045.cpp)  [C++](./PAT_Advanced_Level_Practise/A1045-2.cpp) |
 |1044|[Shopping in Mars (25)](https://www.patest.cn/contests/pat-a-practise/1044)| [C++](./PAT_Advanced_Level_Practise/A1044.cpp) |
 |1043|[Is It a Binary Search Tree (25)](https://www.patest.cn/contests/pat-a-practise/1043)| [C++](./PAT_Advanced_Level_Practise/A1043.cpp) |
 |1042|[Shuffling Machine (20)](https://www.patest.cn/contests/pat-a-practise/1042)| [C++](./PAT_Advanced_Level_Practise/A1042.cpp) |
@@ -123,7 +123,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1019|[General Palindromic Number (20)](https://www.patest.cn/contests/pat-a-practise/1019)| [C++](./PAT_Advanced_Level_Practise/A1019.cpp) |
 |1018|[Public Bike Management (30)](https://www.patest.cn/contests/pat-a-practise/1018)| [C++](./PAT_Advanced_Level_Practise/A1018.cpp) |
 |1017|[Queueing at Bank (25)](https://www.patest.cn/contests/pat-a-practise/1017)| [C++](./PAT_Advanced_Level_Practise/A1017.cpp) |
-|1016|[Phone Bills (25)](https://www.patest.cn/contests/pat-a-practise/1016)| [C++](./PAT_Advanced_Level_Practise/A1016.cpp) |
+|1016|[Phone Bills (25)](https://www.patest.cn/contests/pat-a-practise/1016)| [C++](./PAT_Advanced_Level_Practise/A1016.cpp) [C++](./PAT_Advanced_Level_Practise/A1016-2.cpp) |
 |1015|[Reversible Primes (20)](https://www.patest.cn/contests/pat-a-practise/1015)| [C++](./PAT_Advanced_Level_Practise/A1015.cpp) |
 |1014|[Waiting in Line (30)](https://www.patest.cn/contests/pat-a-practise/1014)| [C++](./PAT_Advanced_Level_Practise/A1014.cpp) |
 |1013|[Battle Over Cities (25)](https://www.patest.cn/contests/pat-a-practise/1013)| [C++](./PAT_Advanced_Level_Practise/A1013.cpp)  [C++](./PAT_Advanced_Level_Practise/A1013-2.cpp) |
