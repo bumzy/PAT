@@ -1,7 +1,10 @@
 #include <stdio.h>
-#include <math.h>
 #include <algorithm>
 using namespace std;
+
+static int gcd(int a, int b) {
+    return b == 0 ? a : gcd(b, a % b);
+}
 
 int main(){
     int n1, m1, n2, m2, k;
@@ -10,17 +13,19 @@ int main(){
         swap(n1, n2);
         swap(m1, m2);
     }
-    int min_i = ceil((double)n1 / m1 * k);
-    int max_i = floor((double)n2 / m2 * k);
+    int num = 1;
+    while (n1 * k >= m1 * num) {
+        num++;
+    }
     bool first = true;
-    for (int i = min_i; i <= max_i; ++i) {
-        if (k % i != 0) {
+    for (; num * m2 < n2 * k; ++num) {
+        if (gcd(num, k) == 1) {
             if (!first) {
                 printf(" ");
             } else {
                 first = false;
             }
-            printf("%d/%d", i, k);
+            printf("%d/%d", num, k);
         }
     }
     printf("\n");
