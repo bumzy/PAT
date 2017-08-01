@@ -1,12 +1,12 @@
-#[PAT(Programming Ability Test)](https://www.patest.cn/contests)
+# [PAT(Programming Ability Test)](https://www.patest.cn/contests)
 
-###测评方式
+### 测评方式
 
 PAT的测评方式为：”单点测试“，即代码只需要能够处理一组数据的输入即可，后台会多次运行代码来测试不同的数据，然后对每组数据都返回相应的结果。
 
 ---
 
-###编译
+### 编译
 
 * 在根目录下编译所有文件：`make `，在根目录下清除所有可执行文件：`make clean`。
 
@@ -16,7 +16,7 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 
 ---
 
-###PAT (Advanced Level) Practise
+### PAT (Advanced Level) Practise
 
 | # | Title | Solution | 
 |---| ----- | -------- |
@@ -141,10 +141,20 @@ PAT的测评方式为：”单点测试“，即代码只需要能够处理一�
 |1001|[A+B Format (20)](https://www.patest.cn/contests/pat-a-practise/1001)| [C++](./PAT_Advanced_Level_Practise/A1001.cpp) [C++](./PAT_Advanced_Level_Practise/A1001-2.cpp)|
 
 ---
-###PAT (Basic Level) Practise （中文）
+### PAT (Basic Level) Practise （中文）
 
 | # | Title | Solution | 
 |---| ----- | -------- |
+|1070|[结绳(25)](https://www.patest.cn/contests/pat-b-practise/1070)| [C++](./PAT_Basic_Level_Practise/B1070.cpp)|
+|1069|[微博转发抽奖(20)](https://www.patest.cn/contests/pat-b-practise/1069)| [C++](./PAT_Basic_Level_Practise/B1069.cpp)|
+|1068|[万绿丛中一点红(20)](https://www.patest.cn/contests/pat-b-practise/1068)| [C++](./PAT_Basic_Level_Practise/B1068.cpp)|
+|1067|[试密码(20)](https://www.patest.cn/contests/pat-b-practise/1067)| [C++](./PAT_Basic_Level_Practise/B1067.cpp)|
+|1066|[图像过滤(15)](https://www.patest.cn/contests/pat-b-practise/1066)| [C++](./PAT_Basic_Level_Practise/B1066.cpp)|
+|1065|[单身狗(25)](https://www.patest.cn/contests/pat-b-practise/1065)| [C++](./PAT_Basic_Level_Practise/B1065.cpp)|
+|1064|[朋友数(20)](https://www.patest.cn/contests/pat-b-practise/1064)| [C++](./PAT_Basic_Level_Practise/B1064.cpp)|
+|1063|[计算谱半径(20)](https://www.patest.cn/contests/pat-b-practise/1063)| [C++](./PAT_Basic_Level_Practise/B1063.cpp)|
+|1062|[最简分数(20)](https://www.patest.cn/contests/pat-b-practise/1062)| [C++](./PAT_Basic_Level_Practise/B1062.cpp)|
+|1061|[判断题(15)](https://www.patest.cn/contests/pat-b-practise/1061)| [C++](./PAT_Basic_Level_Practise/B1061.cpp)|
 |1060|[爱丁顿数(25)](https://www.patest.cn/contests/pat-b-practise/1060)| [C++](./PAT_Basic_Level_Practise/B1060.cpp)|
 |1059|[C语言竞赛(20)](https://www.patest.cn/contests/pat-b-practise/1059)| [C++](./PAT_Basic_Level_Practise/B1059.cpp)|
 |1058|[选择题(20)](https://www.patest.cn/contests/pat-b-practise/1058)| [C++](./PAT_Basic_Level_Practise/B1058.cpp)|
