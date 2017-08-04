@@ -34,10 +34,23 @@ int main() {
         if (cycle[0] != cycle[t - 1] || t != n + 1) {
             flag = false;
         } else {
+            int hash[MAXN] = {0};
             for (int j = 0; j < t - 1; ++j) {
                 int u = cycle[j];
                 int v = cycle[j + 1];
+                if (hash[u] == 0) {
+                    hash[u]++;
+                } else {
+                    flag = false;
+                    break;
+                }
                 if (!matrix[u][v]) {
+                    flag = false;
+                    break;
+                }
+            }
+            for (int j = 1; j <= n; ++j) {
+                if (hash[j] != 1) {
                     flag = false;
                     break;
                 }
