@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -Wall -g 
+CFLAGS = -Wall -g -std=c++11
 BASIC_DIR = PAT_Basic_Level_Practise
 ADVANCED_DIR = PAT_Advanced_Level_Practise
 BASIC_SRCS = $(wildcard $(BASIC_DIR)/*.cpp)
